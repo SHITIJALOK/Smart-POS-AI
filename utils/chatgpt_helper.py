@@ -17,7 +17,7 @@ def ask_chatgpt(prompt):
     }
 
     data = {
-        "model": "deepseek/deepseek-r1-0528:free",
+        "model": "microsoft/phi-3-mini-128k-instruct:free",
         "messages": [
             {
                 "role": "user",
