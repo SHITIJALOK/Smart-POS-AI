@@ -132,7 +132,7 @@ smart-pos-ai/
 ### Clone Repository
 
 ```bash
-git clone <your_repo_link>
+git clone <https://github.com/SHITIJALOK/Smart-POS-AI.git>
 cd smart-pos-ai
 ```
 
